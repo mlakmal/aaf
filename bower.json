@@ -1,0 +1,7 @@
+{
+    "name": "aaf",
+    "version": "0.0.1",
+    "main": "aaf/aafPkg.js",
+    "ignore": [
+    ]
+}
