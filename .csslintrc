@@ -1,0 +1,18 @@
+{
+	"adjoining-classes": false,
+	"box-sizing": false,
+	"important": false,
+	"compatible-vendor-prefixes": false,
+	"unique-headings": false,
+	"ids": false,
+	"qualified-headings": false,
+	"zero-units": false,
+	"font-sizes": false,
+	"box-model": false,
+	"overqualified-elements": false,
+	"shorthand": false,
+	"text-indent": false,
+	"floats": false,
+	"fallback-colors": false,
+	"outline-none": false
+}

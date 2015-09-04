@@ -1,0 +1,13 @@
+{
+	"line-end-style": false,
+	"attr-name-style": "dash",
+	"attr-req-value": false,
+	"focusable-tabindex-style": false,
+	"html-req-lang": false,
+	"href-style": false,
+	"id-class-ignore-regex": false,
+	"id-class-style": false,
+	"indent-style": false,
+	"indent-width": false,
+	"attr-bans": false
+}
