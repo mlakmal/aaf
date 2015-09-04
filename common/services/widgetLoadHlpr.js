@@ -6,7 +6,7 @@
  * TODO: still under design/development Lakmal.
  */
 /* istanbul ignore next */
-define(['aaf/common/commonModule'], function (mod) {
+define(['private_packages/aaf/common/commonModule'], function (mod) {
 
     var injectParams = [
         '$q',

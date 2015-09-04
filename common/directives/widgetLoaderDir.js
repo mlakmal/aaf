@@ -5,7 +5,7 @@
  * @description this directive will load another directive dynamically.
  * Usage: <div data-widget-loader-dir data-widget-name="tcpWidgetName" data-widget-script-path="/feature/directives/xyzDir,path/directives/abcDir"></div>
  */
-define(['aaf/common/commonModule'], function (mod) {
+define(['private_packages/aaf/common/commonModule'], function (mod) {
 
   var injectParams = ['$q',
     '$log',

@@ -1,3 +1,3 @@
 'use strict';
 
-define(['aaf/core/coreUtils'], function () { });
+define(['private_packages/aaf/core/coreUtils'], function () { });

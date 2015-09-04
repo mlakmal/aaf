@@ -1,6 +1,6 @@
 'use strict';
 
-define(['aaf/core/corePkg',
-	'aaf/common/commonPkg',
-	'aaf/aafModule'
+define(['private_packages/aaf/core/corePkg',
+	'private_packages/aaf/common/commonPkg',
+	'private_packages/aaf/aafModule'
 ], function () { });

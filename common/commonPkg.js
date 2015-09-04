@@ -1,7 +1,7 @@
 'use strict';
 
 define([
-	'aaf/common/commonModule',
-	'aaf/common/directives/widgetLoaderDir',
-	'aaf/common/services/widgetLoadHlpr',
-	'aaf/common/services/appBootUtil'], function () { });
+	'private_packages/aaf/common/commonModule',
+	'private_packages/aaf/common/directives/widgetLoaderDir',
+	'private_packages/aaf/common/services/widgetLoadHlpr',
+	'private_packages/aaf/common/services/appBootUtil'], function () { });

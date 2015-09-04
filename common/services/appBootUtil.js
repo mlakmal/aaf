@@ -4,7 +4,7 @@
  * @author Lakmal Molligoda
  *  helper service wrapped to support various jquery tasks
  */
-define(['aaf/common/commonModule'], function (mod) {
+define(['private_packages/aaf/common/commonModule'], function (mod) {
 	var injectParams = ['$q'];
 
 	var aafAppBootUtil = function ($q) {
